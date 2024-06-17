@@ -2,7 +2,7 @@
 <suite name="testsuite" verbose="1">
     <groups>
         <run>
-            <include name="sanity"></include>
+            <include name="regression"></include>
         </run>
     </groups>
     <listeners>
