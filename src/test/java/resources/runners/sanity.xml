@@ -12,9 +12,10 @@
     </listeners>
     <test name="Login Test"   >
         <classes>
-            <!--            <class name="com.tutorialsninja.demo.testsuite.TopMenuTest"></class>-->
-            <!--            <class name="com.tutorialsninja.demo.testsuite.DesktopsTest"></class>-->
+            <class name="com.tutorialsninja.demo.testsuite.TopMenuTest"></class>
+            <class name="com.tutorialsninja.demo.testsuite.DesktopsTest"></class>
             <class name="com.tutorialsninja.demo.testsuite.LaptopsAndNotebooksTest"></class>
+            <class name="com.tutorialsninja.demo.testsuite.MyAccountsTest"></class>
         </classes>
     </test>
 </suite>
